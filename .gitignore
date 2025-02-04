@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+homology_example_Homology-Changes-Predicted-Crash\?\?.png
 
 # C extensions
 *.so
